@@ -19,6 +19,8 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
+    &emsp;
+  <a href="mailto:AhmedAredah@VT.EDU"><img img src="https://img.shields.io/badge/VT-Virgina%20Tech%20Email-red?style=plastic" alt="VTmail"/></a>
   &emsp;
   <a href="mailto:ahmed.aredah@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
   &emsp;
