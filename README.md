@@ -88,7 +88,7 @@
 </p>
 
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedaredah&count_private=true&show_icons=true&show_owner=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedaredah&count_private=true&show_icons=true&show_owner=true&hide_rank=true" />
 </a>
 <a href="#">
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AhmedAredah&theme=default" />
