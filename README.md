@@ -14,7 +14,7 @@
 
 - 📫 Reach me at **AhmedAredah@VT.EDU**
 
-- 📄 Know about my experiences from [My CV](https://docs.google.com/document/d/1T45hhSmlhX5OXZjY3IW0Lu2q2qcn0pr-/edit?usp=sharing&ouid=113568464889105178652&rtpof=true&sd=true)
+- 📄 Know about my experiences from [My CV](https://drive.google.com/file/d/1XLfQN6sXR2DgUPUQxRHaD8cyMfOCa6KZ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 
