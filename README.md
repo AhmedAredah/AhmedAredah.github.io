@@ -42,27 +42,27 @@
     <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
   </a> 
   &emsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
+  <a href="https://www.latex-project.org/" target="_blank"> 
     <img alt="C++" src="https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white">
   </a>
   &emsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
+  <a href="https://www.r-project.org/" target="_blank"> 
     <img alt="C++" src="https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white">
   </a>
   &emsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
+  <a href="https://www.unrealengine.com/en-US/" target="_blank"> 
     <img alt="C++" src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=plastic&logo=unrealengine&logoColor=white">
   </a>
   &emsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
+  <a href="https://dotnet.microsoft.com/en-us/apps/desktop" target="_blank"> 
     <img alt="C++" src="https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white">
   </a>
   &emsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
+  <a href="https://www.tutorialspoint.com/ms_sql_server/index.htm" target="_blank"> 
     <img alt="C++" src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white">
   </a>
   &emsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
+  <a href="https://www.gnu.org/software/octave/index" target="_blank"> 
     <img alt="C++" src="https://img.shields.io/badge/GNU-OCTAVE-darkblue?style=plastic&logo=octave&logoColor=fcd683">
   </a>
   
