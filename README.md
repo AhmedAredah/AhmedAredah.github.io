@@ -30,6 +30,10 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   &emsp;
+   <a href="https://fortran-lang.org/en/" target="_blank">
+    <img alt="Fortran" src="https://img.shields.io/badge/Fortran-%23734F96.svg?style=plastic&logo=fortran&logoColor=white">
+  </a>
+  &emsp;
    <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
   </a>
