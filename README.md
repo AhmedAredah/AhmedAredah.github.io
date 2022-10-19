@@ -30,6 +30,10 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   &emsp;
+   <a href="https://www.java.com/en/" target="_blank">
+    <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white">
+  </a>
+  &emsp;
    <a href="https://fortran-lang.org/en/" target="_blank">
     <img alt="Fortran" src="https://img.shields.io/badge/Fortran-%23734F96.svg?style=plastic&logo=fortran&logoColor=white">
   </a>
