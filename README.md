@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Aredah</h1>
 
-<h3 align="center">A PhD Student and Research Assistant in Sustainable Mobility Lab at Virginia Tech</h3>
+<h3 align="center">A PhD Student and Research Assistant in the Center for Sustainable Mobility (CSM) at Virginia Tech</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedaredah&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedaredah" /> </p>
 
