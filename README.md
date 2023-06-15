@@ -85,6 +85,8 @@
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=plastic&logo=visual-studio&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=plastic&logo=jupyter&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="QT Creator" src="https://img.shields.io/badge/QT-QT%20Creator-green?style=plastic&logo=QT&logoColor=white"></a>
 </p>
 
 <h3 align="left">Operating Systems:</h3>
@@ -95,6 +97,8 @@
     <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>  
+  &emsp;
+    <a href="#"><img src="https://shields.io/badge/MacOS--9cf?style=plastic&logo=Apple&logoColor=white"></a>  
 </p>
 
 <a href="#">
