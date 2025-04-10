@@ -1,58 +1,74 @@
 ---
 permalink: /
-title: "Ahmed Aredah: Innovating Transportation Systems and Sustainable Solutions"
+title: "Ahmed Aredah: Engineering the Future of Sustainable Freight Systems"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Welcome to my professional website. I am **Ahmed Aredah**, an engineer, researcher, and software developer specializing in **Transportation Systems**, **Sustainability**, and **Computer Science**. My work is dedicated to addressing critical challenges in national infrastructure, freight logistics, and energy efficiency through innovative research and cutting-edge technological solutions.
+Welcome to the official website of **Ahmed S. Aredah**, a multi-disciplinary engineer, researcher, and software developer transforming the future of freight transportation, infrastructure, and environmental sustainability.
 
 ### About Me
-I am a dual-degree graduate student at **Virginia Tech**, pursuing a **PhD in Civil Engineering** and a **Master’s in Computer Science**. My research centers on advancing sustainable transportation systems, optimizing freight logistics, and developing simulation tools that align with global environmental and infrastructure goals. My professional expertise is built on a foundation of academic excellence, multidisciplinary experience, and a strong commitment to innovation.
+I am currently pursuing a **Ph.D. in Civil Engineering** and a **Master’s in Computer Science** at **Virginia Tech**, where I lead advanced research initiatives in freight logistics, energy efficiency, and transportation modeling. With a rich professional background spanning academia, government-funded research, and industry, my mission is to build intelligent systems that drive national infrastructure resilience and sustainable development.
 
-### Expertise
-With over a decade of experience spanning academia, industry, and research, I have made significant contributions to:
-- **Energy Optimization and Emissions Reduction**: Developed simulation tools like **ShipNetSim** and **NeTrainSim** to model energy consumption and environmental impacts for freight systems.
-- **Infrastructure Development**: Led projects that improved operational efficiency in transportation and logistics systems, including port operations and multimodal freight networks.
-- **Advanced Software Development**: Delivered scalable solutions using **C++**, **Python**, and cloud-based technologies to address complex engineering challenges.
-- **AI and Machine Learning**: Applied advanced algorithms for predictive modeling, energy optimization, and decision-making in transportation systems.
+### What I Do
+My work lies at the intersection of **transportation systems**, **computer science**, and **sustainability**. I develop simulation-based solutions, AI-driven analytics, and digital infrastructure tools to address energy consumption, emissions, and logistics inefficiencies across the U.S. freight sector.
 
-### Professional Highlights
-#### Research and Innovation
-- Published **7+ peer-reviewed journal articles**, presented at international conferences, and contributed to over $1.5 million in grant-funded research.
-- Developed open-source tools for **freight network modeling**, benefiting policymakers and stakeholders with actionable insights.
-- Collaborated with the **U.S. Department of Energy** on projects aligned with national decarbonization strategies.
+### Research & Development Highlights
+- **ShipNetSim** and **NeTrainSim**: Open-source simulators I developed for evaluating energy consumption and emissions across maritime and rail freight networks.
+- **Multi-Decadal Decarbonization Pathways (DOE, ARPA-E)**: Contributed to a $1.5M federally funded project to simulate energy use for diesel, bio-diesel, and hydrogen-powered trains.
+- **Door-to-Door Freight Optimization** (USDOT UTC): Developed agent-based modeling frameworks for improving U.S. freight logistics using simulation and predictive analytics.
+- **Port Optimization at Norfolk International Terminal** (Moffatt & Nichol): Boosted throughput by 375% through dynamic modeling and the development of custom simulation tools.
 
-#### Industry Impact
-- At **Moffatt & Nichol**, enhanced port efficiency by 375% through advanced simulation and operational optimization.
-- Spearheaded the development of a web-based maintenance management system to streamline operations across infrastructure projects.
+### PhD Research: Building an Integrated Freight Simulation Ecosystem
 
-#### Academic Contributions
-- Served as a **Teaching Lecturer** at **The German University in Cairo**, delivering courses on transportation engineering, sustainable energy systems, and infrastructure design.
-- Supported accreditation efforts and mentored undergraduate students in engineering and architecture.
+During my PhD at **Virginia Tech**, I developed a suite of simulation tools aimed at optimizing freight logistics, energy consumption, and multimodal network performance across the United States. The diagram below illustrates the simulation ecosystem I built—each module shown was developed by me, with the exception of the **Integration** component.
 
-### Areas of Research Interest
-- **Sustainable Transportation**: Decarbonizing freight systems and advancing environmentally friendly infrastructure.
-- **Simulation and Modeling**: Designing tools for network-level freight optimization and energy efficiency analysis.
-- **Artificial Intelligence and Machine Learning**: Leveraging advanced algorithms for predictive analytics and logistics optimization.
+![PhD Simulation Framework](/images/phd_simulation_framework.png)
 
-### Selected Publications
-- Aredah, A., Rakha, H.A., et al. (2024). *Energy Optimization in Freight Train Operations: Algorithmic Development and Testing*. **Applied Energy**. 364, 123111.
-- Aredah, A., Fadhloun, K., Rakha, H.A. (2024). *NeTrainSim: A Network-Level Simulator for Modeling Freight Train Longitudinal Motion and Energy Consumption*. **Railway Engineering Science**. 1-19.
-- Aredah, A., Du, J., List, G., Rakha, H.A. (2024). *Comparative Analysis of Alternative Powertrain Technologies in Freight Trains: A Numerical Examination Towards Sustainable Rail Transport*. **Applied Energy**. 356, 122411.
+The key tools include:
 
-### Skills and Expertise
-- **Programming Languages**: C++, Python, React.js, MATLAB, SQL.
-- **Simulation Tools**: PTV Vissim, SUMO, Carla Simulator.
-- **Data Science**: Pandas, TensorFlow, Scikit-learn.
-- **Project Management**: Jira, Primavera P6, MS Project.
+- **CargoNetSim**: Orchestrates end-to-end freight movement across rail, ship, and terminal systems.
+- **NeTrainSim**: Simulates network-level freight train motion and energy consumption across the U.S. rail network.
+- **ShipNetSim**: Models ship dynamics, fuel usage, and emissions across global shipping routes.
+- **TerminalSim**: Captures port operations to evaluate throughput and optimize loading/unloading.
+- **NeTrainLine**: Evaluates path optimization and routing through a dynamically coded network.
 
-### Awards and Recognition
-- Recipient of the **Last Mile Leadership Scholarship**, funded by the **U.S. Department of Energy**.
-- Multiple competitive graduate research assistantships at **Virginia Tech**.
-- Recognized for contributions to sustainable transportation and freight logistics at international conferences.
+These tools empower stakeholders, from policymakers to industry leaders, to make data-informed decisions aligned with **national decarbonization strategies** and **infrastructure modernization goals**.
+
+
+### Industry Impact
+- Spearheaded **web-based infrastructure management systems** using Azure, React.js, and FlexTerm.
+- Led training and technical presentations for stakeholders on infrastructure simulation, data analytics, and system integration.
+- Designed highway and port infrastructure for multi-million-dollar national projects using BIM, Civil 3D, and scheduling software.
+
+### Publications
+I have authored several **peer-reviewed articles** in journals such as *Applied Energy*, *Railway Engineering Science*, and *Energies*. My work has been presented at international conferences including the **Transportation Research Board (TRB)** and **IEEE Smart Mobility Conference**.
+
+**Selected publications**:
+- *Energy Optimization in Freight Train Operations*, **Applied Energy**, 2024  
+- *Comparative Analysis of Alternative Powertrains*, **Applied Energy**, 2024  
+- *NeTrainSim Simulator Development*, **Railway Engineering Science**, 2024  
+
+Full list of publications:  
+[Google Scholar](https://scholar.google.com.eg/citations?user=t5Fodq4AAAAJ&hl=en) | [ORCiD](https://orcid.org/0000-0003-0186-3783) | [ResearchGate](https://www.researchgate.net/profile/Ahmed-Aredah)
+
+### Technical Expertise
+- **Programming**: C++, Python, React.js, MATLAB, SQL  
+- **AI/ML Tools**: TensorFlow, PyTorch, Scikit-learn  
+- **Simulation & Modeling**: Carla Simulator, SUMO, VISSIM, ArcGIS, PTV  
+- **Infrastructure Design**: BIM, Revit, Navisworks, Civil 3D  
+- **Project Management**: Jira, MS Project, Primavera P6  
+
+### Recognitions & Awards
+- **Last Mile Leadership Scholarship**, U.S. Department of Energy (LODESTAR Program)  
+- Multiple **Graduate Research/Teaching Assistantships** at Virginia Tech  
+
+### Teaching & Mentorship
+Former **Teaching Lecturer** at the **German University in Cairo**, where I delivered over 10 courses in civil engineering and architecture, contributed to curriculum development, and mentored students in design, BIM, and sustainable transportation.
 
 ### Let’s Connect
-Explore my work, publications, and projects through this website. I welcome opportunities for collaboration in research, innovation, and professional development. Connect with me on [LinkedIn](https://www.linkedin.com/in/ahmed-aredah) or view my open-source contributions on [GitHub](https://github.com/AhmedAredah). Together, we can drive progress in transportation systems, infrastructure, and sustainability.
+Explore my portfolio, research, and tools showcased here. I'm open to academic, governmental, and industry collaborations. Connect with me on [LinkedIn](https://www.linkedin.com/in/ahmedaredah), view my code on [GitHub](https://github.com/AhmedAredah), or reach out via [email](mailto:AhmedAredah@VT.EDU).
+
+Together, let’s design the future of sustainable infrastructure and intelligent transportation systems.
